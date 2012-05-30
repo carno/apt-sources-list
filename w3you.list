@@ -1,1 +1,3 @@
-/etc/apt/sources.list.d/w3you.list
+# slam's repo (lxdm etc)
+# deb http://w3you.com/debian sid main
+# deb-src http://w3you.com/debian sid main

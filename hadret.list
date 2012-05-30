@@ -1,1 +1,5 @@
-/etc/apt/sources.list.d/hadret.list
+# PPA Hadreta
+# deb http://hadret.rootnode.net/debian/ unstable main
+# deb-src http://hadret.rootnode.net/debian/ unstable main
+
+# deb http://hadret.rootnode.net/debian/ UNRELEASED main

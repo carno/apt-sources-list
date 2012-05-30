@@ -1,1 +1,11 @@
-/etc/apt/sources.list.d/aptosid.list
+# deb http://debian.tu-bs.de/project/aptosid/debian/ sid main fix.main
+# deb-src http://debian.tu-bs.de/project/aptosid/debian/ sid main fix.main
+
+# deb http://ftp.uni-erlangen.de/mirrors/aptosid/ sid main fix.main
+# deb-src http://ftp.uni-erlangen.de/mirrors/aptosid/ sid main fix.main
+
+deb ftp://ftp.spline.de/pub/aptosid/debian/ sid main fix.main
+# deb-src ftp://ftp.spline.de/pub/aptosid/debian/ sid main fix.main
+
+deb http://aptosid.com/debian/ sid main fix.main
+# deb-src http://aptosid.com/debian/ sid main fix.main
