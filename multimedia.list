@@ -1,2 +1,4 @@
 # debian multimedia
-# deb http://www.debian-multimedia.org sid main non-free
+# http://deb-multimedia.org/
+
+# deb http://www.deb-multimedia.org sid main non-free

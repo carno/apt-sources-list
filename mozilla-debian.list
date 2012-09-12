@@ -1,2 +1,5 @@
 # Debian Mozilla team
-# deb http://mozilla.debian.net/ experimental iceweasel-5.0
+# http://mozilla.debian.net/
+
+# deb http://mozilla.debian.net/ experimental iceweasel-beta
+# deb http://mozilla.debian.net/ experimental iceweasel-aurora

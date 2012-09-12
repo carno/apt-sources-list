@@ -1,3 +1,6 @@
+# aptosid repos
+# # http://www.aptosid.com/index.php
+
 # deb http://debian.tu-bs.de/project/aptosid/debian/ sid main fix.main
 # deb-src http://debian.tu-bs.de/project/aptosid/debian/ sid main fix.main
 

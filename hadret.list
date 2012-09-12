@@ -1,5 +1,8 @@
-# PPA Hadreta
-# deb http://hadret.rootnode.net/debian/ unstable main
-# deb-src http://hadret.rootnode.net/debian/ unstable main
+# PPA by Hadret
+# http://deb.ianod.es/debian/
 
-# deb http://hadret.rootnode.net/debian/ UNRELEASED main
+# deb http://deb.ianod.es/debian/ unstable main
+# deb-src http://deb.ianod.es/debian/ unstable main
+
+# deb http://deb.ianod.es/debian/ experimental main
+# deb-src http://deb.ianod.es/debian/ experimental main
