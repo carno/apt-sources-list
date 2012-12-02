@@ -1,5 +1,5 @@
 # slam's repo (lxdm etc)
 # http://w3you.com/
 
-deb http://w3you.com/debian sid main
+# deb http://w3you.com/debian sid main
 # deb-src http://w3you.com/debian sid main
