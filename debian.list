@@ -13,3 +13,5 @@ deb http://ftp.de.debian.org/debian/ sid main contrib non-free
 # experimantal
 deb http://ftp.pl.debian.org/debian/ experimental main contrib non-free
 deb http://ftp.de.debian.org/debian/ experimental main contrib non-free
+# deb-src http://ftp.de.debian.org/debian/ experimental main contrib non-free
+# deb-src http://ftp.pl.debian.org/debian/ experimental main contrib non-free

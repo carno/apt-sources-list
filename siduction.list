@@ -4,7 +4,7 @@
 # deb http://packages.siduction.org/siduction unstable main contrib non-free 
 # deb-src http://packages.siduction.org/siduction unstable main contrib non-free
 
-# deb http://packages.siduction.org/extra unstable main contrib non-free
+deb http://packages.siduction.org/extra unstable main contrib non-free
 # deb-src http://packages.siduction.org/extra unstable main contrib non-free
 
 deb http://packages.siduction.org/user unstable main contrib non-free
