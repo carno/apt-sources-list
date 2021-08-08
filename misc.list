@@ -1,0 +1,7 @@
+# misc. siduction-lists
+#deb http://ftp.uni-stuttgart.de/siduction/experimental unstable main
+#deb-src http://ftp.uni-stuttgart.de/siduction/experimental unstable main
+
+#deb http://ftp.uni-stuttgart.de/siduction/user unstable main
+#deb-src http://ftp.uni-stuttgart.de/siduction/user unstable main
+

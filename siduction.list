@@ -1,20 +1,9 @@
-# siduction repos
-# http://packages.siduction.org/
+# official siduction-lists
+deb http://packages.siduction.site/extra unstable main
+# deb-src http://packages.siduction.site/extra unstable main
 
-# deb http://packages.siduction.org/base unstable main contrib non-free 
-# deb-src http://packages.siduction.org/base unstable main contrib non-free
+deb http://packages.siduction.site/fixes unstable main contrib non-free
+# deb-src http://packages.siduction.site/fixes unstable main contrib non-free
 
-deb http://packages.siduction.org/extra unstable main contrib non-free
-# deb-src http://packages.siduction.org/extra unstable main contrib non-free
-
-deb http://packages.siduction.org/user unstable main contrib non-free
-# deb-src http://packages.siduction.org/user unstable main contrib non-free
-
-# deb http://packages.siduction.org/fixes unstable main contrib non-free
-# deb-src http://packages.siduction.org/fixes unstable main contrib non-free
-
-deb http://packages.siduction.org/experimental unstable main contrib non-free
-# deb-src http://packages.siduction.org/experimental unstable main contrib non-free
-
-# deb http://packages.siduction.org/razorqt unstable main
-# deb-src http://packages.siduction.org/razorqt unstable main
+# deb http://packages.siduction.site/extra experimental main contrib non-free
+# deb-src http://packages.siduction.site/extra experimental main contrib non-free
